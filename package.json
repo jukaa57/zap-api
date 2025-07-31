@@ -1,9 +1,9 @@
 {
   "name": "zap-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "A sample whatsapp api with chatwoot integration.",
   "license": "ISC",
-  "author": "",
+  "author": "jukaa57",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
